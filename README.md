@@ -238,10 +238,6 @@ This project is created as a coding challenge submission.
 
 Developed as part of the Iron Software C# Coding Challenge
 
-## 📧 Contact
-
-For questions about this implementation, please reach out to: namanjain34710@gmail.com
-
 ## Prompt Used
 
 This project was developed using the following prompt:
